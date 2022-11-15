@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fabienmcll
 - 👀 I’m interested in dev
-- 🌱 I’m currently learning dev
+- 🌱 I’m currently learning development
 - 📫 How to reach me fabienmclll@gmail.com
 
 <!---
