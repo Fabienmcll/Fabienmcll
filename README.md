@@ -1,4 +1,4 @@
-# Bienvenue sur mon profil GitHub👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0000FF&lines=Bienvenue++sur+mon+profil+GitHub!👋;)](https://git.io/typing-svg)
 
 ## Languages et outils
 
