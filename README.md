@@ -19,7 +19,6 @@
 [![WordPress](https://img.shields.io/badge/-WordPress-21759B?&logo=WordPress&logoColor=white)](https://wordpress.org/)
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?&logo=PHP&logoColor=white)](https://www.php.net/)
 [![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=white)](https://symfony.com/)
-[![MariaDB](https://img.shields.io/badge/-MariaDB-003545?&logo=MariaDB&logoColor=white)](https://mariadb.org/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 
 ## Contact
