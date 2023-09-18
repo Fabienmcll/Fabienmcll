@@ -5,6 +5,7 @@
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=white)](https://www.w3.org/html/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=CSS3&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?&logo=Tailwind%20CSS&logoColor=white)](https://tailwindcss.com/)
 [![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=white)](https://git-scm.com/)
 [![Gitea](https://img.shields.io/badge/-Gitea-609926?&logo=Gitea&logoColor=white)](https://gitea.io/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://www.github.com/)
@@ -16,9 +17,9 @@
 
 ## En apprentissage / perfectionnement
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
 [![WordPress](https://img.shields.io/badge/-WordPress-21759B?&logo=WordPress&logoColor=white)](https://wordpress.org/)
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?&logo=PHP&logoColor=white)](https://www.php.net/)
-[![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=white)](https://symfony.com/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 
 ## Tout mon travail sur Gitea
