@@ -21,6 +21,11 @@
 [![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=white)](https://symfony.com/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 
+## Tout mon travail sur Gitea
+Tout mon travail, y compris mes projets les plus récents, est hébergé sur mon serveur Gitea. Vous pouvez consulter l'ensemble de mes dépôts et contributions en visitant le lien suivant :
+[Gitea Server](https://gitea.fabienmcl.fr)
+
+
 ## Contact
 Si vous souhaitez me contacter ou collaborer sur des projets, n'hésitez pas à m'envoyer un e-mail à l'adresse suivante : 
 [E-mail](mailto:fabienmclll@gmail.com)
