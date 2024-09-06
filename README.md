@@ -23,8 +23,7 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 
 ## Tout mon travail sur Gitea
-Tout mon travail, y compris mes projets les plus récents, est hébergé sur mon serveur Gitea. Vous pouvez consulter l'ensemble de mes dépôts et contributions en visitant le lien suivant :
-[Gitea Server](https://gitea.fabienmcl.fr)
+Tout mon travail personnel et mes projets de bac à sable, sont hébergés sur mon serveur Gitea. Vous pouvez consulter l'ensemble de mes dépôts et contributions en visitant le lien suivant :[Gitea Server](https://gitea.fabienmcl.fr)
 
 
 ## Contact
