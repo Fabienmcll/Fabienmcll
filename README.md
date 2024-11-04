@@ -22,6 +22,10 @@
 [![Symfony](https://img.shields.io/badge/-Symfony-000000?&logo=Symfony&logoColor=white)](https://symfony.com/)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?&logo=Vue.js&logoColor=white)](https://vuejs.org/)
 
+![](https://komarev.com/ghpvc/?username=Fabienmcll-Dev&color=lightgrey&labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)
+<br/>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Fabienmcll&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabienmcll&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tout mon travail sur Gitea
@@ -31,4 +35,5 @@ Mon travail personnel et mes projets de bac à sable, sont aussi hébergés sur 
 ## Contact
 Si vous souhaitez me contacter ou collaborer sur des projets, n'hésitez pas à m'envoyer un e-mail à l'adresse suivante : 
 [E-mail](mailto:contact.fabienmichel@gmail.com)
+
 
