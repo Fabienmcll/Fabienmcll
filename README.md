@@ -25,7 +25,7 @@
 
 
 ## Autres
-Mon travail personnel et mes projets de bac à sable, sont aussi hébergés sur mon serveur Gitea. Vous pouvez consulter l'ensemble de mes dépôts et contributions en visitant le lien suivant : [Gitea](https://gitea.fabienmcl.fr)
+Mon travail personnel et mes projets de bac à sable, sont aussi hébergés sur mon serveur Gitea. Vous pouvez consulter l'ensemble de mes dépôts et contributions en visitant le lien suivant : [Gitea](https://gitea.fabienmcl.fr/Fabienmcll)
 
 
 ## Contact
